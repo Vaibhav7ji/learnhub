@@ -176,12 +176,12 @@ const Footer = () => {
             <div className="flex ">
               <span> Made with ❤️</span>
 
-              <Link to='https://github.com/Aniruddha-Gade' target="__blank" className="text-white hover:underline mr-1"
+              <Link to='https://github.com/Vaibhav7ji' target="__blank" className="text-white hover:underline mr-1"
               >
-                Aniruddha Gade
+                Vaibhav Vageriya
               </Link>
             </div>
-            <span> © 2023 Studynotion</span>
+            <span> © 2025 learnhub</span>
           </div>
 
           <div className="flex items-center">
