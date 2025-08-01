@@ -1,0 +1,11 @@
+{
+  "name": "learnhub-root",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "concurrently": "concurrently \"npm run dev --prefix backend\" \"npm start --prefix frontend\""
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}
